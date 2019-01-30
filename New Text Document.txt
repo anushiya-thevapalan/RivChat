@@ -1,0 +1,9 @@
+everything is working fine.no errors
+-login
+-logout
+-chatting
+-adding friends
+-profile functions
+
+++added my function button to the chat activity.emotions picking up.but not displaying.
+++colors are original
